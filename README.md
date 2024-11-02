@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏼‍💻 My current position: Front-End developer<br>🔭 I’m currently working on: Implementing platform for trading<br>🌱 I’m currently learning: NodeJS with framework NestJS<br>⚡ Fun fact: Solved 86 algorithmic tasks also 6 Kata Completed in CodeWars. 
+🧑🏼‍💻 My current position: Front-End developer<br>🌱 I’m currently learning: NodeJS with framework NestJS<br>⚡ Fun fact: Solved 86 algorithmic tasks also 6 Kata Completed in CodeWars. 
 
 
 ## 🌐 Socials:
